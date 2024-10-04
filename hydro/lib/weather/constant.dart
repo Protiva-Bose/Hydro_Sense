@@ -1,0 +1,1 @@
+const base_url="http://api.weatherapi.com/v1/forecast.json?key=d2f7a7e20ed14213ba760549240309&q=Dhaka&days=7";
