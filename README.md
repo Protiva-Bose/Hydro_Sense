@@ -14,6 +14,12 @@ Farmers face significant water-related challenges from unpredictable weather, pe
 5. Importance of a tailored tool: A solution designed to connect NASA Earth Observation data with farmers’ needs would enhance resilience, sustainability, and decision-making in agricultural communities.<br>
 ## Our Solution:
 ![](hydro/assets/images/img_37.png)
+<div align="center">
+    <img src="hydro/assets/images/img_37.png" width="400px"</img> 
+</div>
+
+![Screenshot 2024-10-05 014926](https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11)
+
 - "Welcome to HydroSense. Our solution is an innovative agricultural app designed to empower farmers with the tools they need to tackle water-related challenges and more. Using real-time location tracking, our app seamlessly integrates with NASA’s advanced datasets, including soil moisture from SMAP, precipitation from GPM, groundwater levels from GRACE, and pest and disease predictions from NASA’s Earth Observational Data. This allows farmers to not only predict floods and droughts specific to their region but also stay ahead of pest outbreaks and crop diseases. Farmers receive timely notifications and messages, helping them make informed decisions to protect their crops, manage water efficiently, and safeguard their livelihoods."<br>
 
 - "Our app goes beyond just data. With a simple, user-friendly design, farmers can easily understand the information and get timely alerts when their crops are at risk. It also helps safeguard farmers by sending health hazard alerts during heat waves and thunderstorms. Plus, the built-in to-do list keeps farmers organized and on top of essential tasks for their crops.
