@@ -67,3 +67,42 @@ Protiva Bose
 3. [Todays work feature maked by help of this](https://www.bing.com/videos/riverview/relatedvideo?q=todo+app+in+flutter+dart&&view=riverview&mmscn=mtsc&mid=0C3120ED9C5F3F14393B0C3120ED9C5F3F14393B&&aps=14&FORM=VMSOVR)<br>
 4. [AI feature by help of this](https://www.bing.com/videos/riverview/relatedvideo?&q=chatgpt+ainapp+in+flutter+dart&&mid=15F510936BB98A9A48D015F510936BB98A9A48D0&&FORM=VRDGAR)<br>
 5. And the picture also gif use from MicrosoftEdge website
+### Team members:
+1. Mozammel Hossain Tanvir(leader)(Video script maker + Data collect)<br>
+2. Protiva Bose(App Developer + UIUX designer)<br>
+3. Mamun Ar Rashid Tasin(Video Maker + Editer)<br>
+4. Shafee Ahmed(Explore NASA Api + data collect + Video script maker)<br>
+5. Kifayat Khan Shaon(UI/UX design + Video script maker + Make Subtitle)<br>
+### ScreenShots of this Software App:
+ <img src="[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 014934" width="200" height="300">
+ <img src="[[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 031036" width="200" height="300">
+  <img src="[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 014934" width="200" height="300">
+  
+                      
+
+![Screenshot 2024-10-05 031036](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)
+![Screenshot 2024-10-05 031210](https://github.com/user-attachments/assets/6c8dae64-95e5-4fb7-87a1-2dfa4a3a98c3)
+![Screenshot 2024-10-05 031426](https://github.com/user-attachments/assets/913513dc-93d6-47d6-b790-7d0edb7ac5f9)
+![Screenshot 2024-10-05 031503](https://github.com/user-attachments/assets/f6a531a1-c72e-4df5-8722-6a617f4d8edf)
+![Screenshot 2024-10-05 031524](https://github.com/user-attachments/assets/45a9b82f-754f-4826-a334-25dc543a91e4)
+![Screenshot 2024-10-05 031546](https://github.com/user-attachments/assets/da4d05e0-6ea7-4f66-ba1f-840efe28ad64)
+![Screenshot 2024-10-05 031612](https://github.com/user-attachments/assets/d3893596-34f2-4575-9b26-727839b5e7a2)
+![Screenshot 2024-10-05 031643](https://github.com/user-attachments/assets/fa4f56ab-6e71-400c-af13-2d116c596661)
+![Screenshot 2024-10-05 031705](https://github.com/user-attachments/assets/2aba9eae-329a-404e-98d5-3842581b1cf1)
+![Screenshot 2024-10-05 031736](https://github.com/user-attachments/assets/6b12252c-734b-4690-a5e2-0a87179a2dbb)
+![Screenshot 2024-10-05 031805](https://github.com/user-attachments/assets/71c51d38-7378-4812-a74f-007a87576bbd)
+![Screenshot 2024-10-05 031827](https://github.com/user-attachments/assets/216e5a27-c919-4f0c-8637-36768614e48d)
+![Screenshot 2024-10-05 031849](https://github.com/user-attachments/assets/f845d052-f78b-4c04-b6a3-0eb8708090d3)
+![Screenshot 2024-10-05 031912](https://github.com/user-attachments/assets/062cdd96-10db-41df-b975-1e35d781369b)
+![Screenshot 2024-10-05 031932](https://github.com/user-attachments/assets/4335f95e-dff5-4d38-9398-1623b1a06a42)
+![Screenshot 2024-10-05 031957](https://github.com/user-attachments/assets/38a45095-017e-4ada-9bc1-e312810102b4)
+![Screenshot 2024-10-05 032012](https://github.com/user-attachments/assets/7f53daf4-cc55-4b77-9fa9-ce00ac334f6c)
+![Screenshot 2024-10-05 032029](https://github.com/user-attachments/assets/a455662a-69a8-4c71-aa8e-e6e28e198b5d)
+![Screenshot 2024-10-05 032048](https://github.com/user-attachments/assets/56f7bc60-4085-47aa-83f6-aae4619e000d)
+![Screenshot 2024-10-05 032109](https://github.com/user-attachments/assets/09b6788f-b5b2-4ff9-b7b3-c4c1c637be18)
+![Screenshot 2024-10-05 032147](https://github.com/user-attachments/assets/84d3ca16-17ed-456a-80d4-a7fb2bf6ec07)
+![Screenshot 2024-10-05 032215](https://github.com/user-attachments/assets/f38e17d6-ef5a-4e71-99be-bff8d965e929)
+
+
+
+
