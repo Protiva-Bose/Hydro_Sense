@@ -74,12 +74,8 @@ Protiva Bose
 4. Shafee Ahmed(Explore NASA Api + data collect + Video script maker)<br>
 5. Kifayat Khan Shaon(UI/UX design + Video script maker + Make Subtitle)<br>
 ### ScreenShots of this Software App:
- <img src="[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 014934" width="200" height="300">
- <img src="[[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 031036" width="200" height="300">
-  <img src="[https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11](https://github.com/user-attachments/assets/0220badd-f7d0-438b-9481-3038422f3f0f)" alt="Screenshot 2024-10-05 014934" width="200" height="300">
   
-                      
-
+![Screenshot 2024-10-05 014934](https://github.com/user-attachments/assets/25958475-74d0-4795-8628-15f9508fa2c8)
 ![Screenshot 2024-10-05 031036](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)
 ![Screenshot 2024-10-05 031210](https://github.com/user-attachments/assets/6c8dae64-95e5-4fb7-87a1-2dfa4a3a98c3)
 ![Screenshot 2024-10-05 031426](https://github.com/user-attachments/assets/913513dc-93d6-47d6-b790-7d0edb7ac5f9)
