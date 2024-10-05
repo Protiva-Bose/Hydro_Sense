@@ -14,7 +14,7 @@ Farmers face significant water-related challenges from unpredictable weather, pe
 5. Importance of a tailored tool: A solution designed to connect NASA Earth Observation data with farmers’ needs would enhance resilience, sustainability, and decision-making in agricultural communities.<br>
 ## Our Solution:
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/fc16d08a-1f6b-470f-9b21-9dfece379f11" alt="Screenshot 2024-10-05 014926" width="200" height="300">
+  <img src="https://github.com/user-attachments/assets/339c7817-a495-4586-8754-b5149ec0c208" alt="Screenshot 2024-10-05 014934" width="200" height="300">
 </div>
 
 - "Welcome to HydroSense. Our solution is an innovative agricultural app designed to empower farmers with the tools they need to tackle water-related challenges and more. Using real-time location tracking, our app seamlessly integrates with NASA’s advanced datasets, including soil moisture from SMAP, precipitation from GPM, groundwater levels from GRACE, and pest and disease predictions from NASA’s Earth Observational Data. This allows farmers to not only predict floods and droughts specific to their region but also stay ahead of pest outbreaks and crop diseases. Farmers receive timely notifications and messages, helping them make informed decisions to protect their crops, manage water efficiently, and safeguard their livelihoods."<br>
@@ -74,7 +74,7 @@ Protiva Bose
 4. Shafee Ahmed(Explore NASA Api + data collect + Video script maker)<br>
 5. Kifayat Khan Shaon(UI/UX design + Video script maker + Make Subtitle)<br>
 ### ScreenShots of this Software App:
- ![Screenshot 2024-10-05 014926](https://github.com/user-attachments/assets/467549db-d0a0-4616-bdf6-667575430d15)
+
 ![Screenshot 2024-10-05 014934](https://github.com/user-attachments/assets/25958475-74d0-4795-8628-15f9508fa2c8)
 ![Screenshot 2024-10-05 031036](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)
 ![Screenshot 2024-10-05 031210](https://github.com/user-attachments/assets/6c8dae64-95e5-4fb7-87a1-2dfa4a3a98c3)
