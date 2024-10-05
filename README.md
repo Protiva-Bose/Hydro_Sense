@@ -1,5 +1,5 @@
 # Hydro_Sense
- Codes in flutter dart project.
+ 'Innovative app for agriculture'
  ## "Team Scrappers" of NASA Space App Challenge-2024
 ## Our Challenge Name:
 ####  Leveraging Earth Observation Data for Informed Agricultural Decision-Making
@@ -14,7 +14,7 @@ Farmers face significant water-related challenges from unpredictable weather, pe
 5. Importance of a tailored tool: A solution designed to connect NASA Earth Observation data with farmers’ needs would enhance resilience, sustainability, and decision-making in agricultural communities.<br>
 ## Our Solution:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/339c7817-a495-4586-8754-b5149ec0c208" alt="Screenshot 2024-10-05 014934" width="180" height="300">
+  <img src="https://github.com/user-attachments/assets/339c7817-a495-4586-8754-b5149ec0c208" alt="Screenshot 2024-10-05 014934" width="180" height="320">
 </div>
 
 - "Welcome to HydroSense. Our solution is an innovative agricultural app designed to empower farmers with the tools they need to tackle water-related challenges and more. Using real-time location tracking, our app seamlessly integrates with NASA’s advanced datasets, including soil moisture from SMAP, precipitation from GPM, groundwater levels from GRACE, and pest and disease predictions from NASA’s Earth Observational Data. This allows farmers to not only predict floods and droughts specific to their region but also stay ahead of pest outbreaks and crop diseases. Farmers receive timely notifications and messages, helping them make informed decisions to protect their crops, manage water efficiently, and safeguard their livelihoods."<br>
@@ -96,6 +96,8 @@ Protiva Bose
 ![Screenshot 2024-10-05 032029](https://github.com/user-attachments/assets/a455662a-69a8-4c71-aa8e-e6e28e198b5d)
 ![Screenshot 2024-10-05 032048](https://github.com/user-attachments/assets/56f7bc60-4085-47aa-83f6-aae4619e000d)
 ![Screenshot 2024-10-05 032109](https://github.com/user-attachments/assets/09b6788f-b5b2-4ff9-b7b3-c4c1c637be18)
+![Screenshot 2024-10-05 094602](https://github.com/user-attachments/assets/10853d31-a857-4136-b4d4-d59ad484315f)
+
 ![Screenshot 2024-10-05 032147](https://github.com/user-attachments/assets/84d3ca16-17ed-456a-80d4-a7fb2bf6ec07)
 ![Screenshot 2024-10-05 032215](https://github.com/user-attachments/assets/f38e17d6-ef5a-4e71-99be-bff8d965e929)
 
