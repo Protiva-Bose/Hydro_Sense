@@ -66,7 +66,11 @@ Protiva Bose
 2. [Weather feature maked by help of this](https://www.youtube.com/watch?v=TdplrsFJzI0)<br>
 3. [Todays work feature maked by help of this](https://www.bing.com/videos/riverview/relatedvideo?q=todo+app+in+flutter+dart&&view=riverview&mmscn=mtsc&mid=0C3120ED9C5F3F14393B0C3120ED9C5F3F14393B&&aps=14&FORM=VMSOVR)<br>
 4. [AI feature by help of this](https://www.bing.com/videos/riverview/relatedvideo?&q=chatgpt+ainapp+in+flutter+dart&&mid=15F510936BB98A9A48D015F510936BB98A9A48D0&&FORM=VRDGAR)<br>
-5. And the picture also gif use from MicrosoftEdge website.
+5. And the picture also gif use from MicrosoftEdge website:
+   + [Thunderstorm sector](https://64.media.tumblr.com/47051bcc50979603cdc964f45e88ea73/tumblr_obut4wO11B1rh2n3qo1_540.gif)<br>
+   + [HeatWave info](https://www.elementonetech.com/images/ResearchDevelopment/Climatechange.jpg)<br>
+   + [HeatWave moving part](https://www.icegif.com/wp-content/uploads/2023/09/icegif-121.gif)<br>
+   + [Water level](https://media.giphy.com/media/ZUU9tOUrs1aPC/giphy.gif)<br>
 ### Team members:
 1. Mozammel Hossain Tanvir(leader)(Project management + Researcher)<br>
 2. Protiva Bose(App Developer + UI/UX designer)<br>
