@@ -1,7 +1,7 @@
 # Hydro_Sense
  'Innovative app for agriculture'
- ## "Team Scrappers" of NASA Space App Challenge-2024
-## Our Challenge Name:
+ ## "Team Scrappers" 
+## Challenge Name:
 ####  Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 We are working on the Subject: Software
 ## Subject:
@@ -63,6 +63,7 @@ We didn’t stop there. Our app builds a community where farmers can share advic
 Protiva Bose
 ### References and credits:
 1.[NASA api](https://ccmc.gsfc.nasa.gov/tools/DONKI/#donki-webservice-calls-api)<br>
++ [NASA api dart code from JSON](https://jacksiroke.github.io/Json2Dart/)<br>
 2. [Help from Weather Api](https://www.weatherapi.com/)<br>
 3. [Weather feature maked by help of this](https://www.youtube.com/watch?v=TdplrsFJzI0)<br>
 4. [Todays work feature maked by help of this](https://www.bing.com/videos/riverview/relatedvideo?q=todo+app+in+flutter+dart&&view=riverview&mmscn=mtsc&mid=0C3120ED9C5F3F14393B0C3120ED9C5F3F14393B&&aps=14&FORM=VMSOVR)<br>
