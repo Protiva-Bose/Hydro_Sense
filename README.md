@@ -5,7 +5,7 @@
 ####  Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 We are working on the Subject: Software
 ## Subject:
-Farmers face significant water-related challenges from unpredictable weather, pests, and diseases, affecting crop health, profits, and food security. This tool aims to help farmers explore and analyze NASA datasets to address issues like droughts and floods, enabling them to improve their farming practices and mitigate the impact of extreme weather events.
+Farmers face significant water-related challenges from unpredictable weather, pests, and diseases, affecting crop health, profits,heatwave and thunderstorm. This tool aims to help farmers explore and analyze NASA datasets to address issues like droughts and floods, enabling them to improve their farming practices and mitigate the impact of extreme weather events.
 ## Our background:
 1. Challenges faced by farmers: Unpredictable weather, pests, diseases, and political issues affect crop health, profitability, and food security, making farming more vulnerable.<br>
 2. Need for innovative solutions: Farmers require tools that provide data-driven insights, such as NASA Earth data, to help them tackle water-related challenges without becoming data experts.<br>
@@ -14,7 +14,7 @@ Farmers face significant water-related challenges from unpredictable weather, pe
 5. Importance of a tailored tool: A solution designed to connect NASA Earth Observation data with farmers’ needs would enhance resilience, sustainability, and decision-making in agricultural communities.<br>
 ## Our Solution:
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/339c7817-a495-4586-8754-b5149ec0c208" alt="Screenshot 2024-10-05 014934" width="200" height="300">
+  <img src="https://github.com/user-attachments/assets/339c7817-a495-4586-8754-b5149ec0c208" alt="Screenshot 2024-10-05 014934" width="180" height="300">
 </div>
 
 - "Welcome to HydroSense. Our solution is an innovative agricultural app designed to empower farmers with the tools they need to tackle water-related challenges and more. Using real-time location tracking, our app seamlessly integrates with NASA’s advanced datasets, including soil moisture from SMAP, precipitation from GPM, groundwater levels from GRACE, and pest and disease predictions from NASA’s Earth Observational Data. This allows farmers to not only predict floods and droughts specific to their region but also stay ahead of pest outbreaks and crop diseases. Farmers receive timely notifications and messages, helping them make informed decisions to protect their crops, manage water efficiently, and safeguard their livelihoods."<br>
@@ -61,12 +61,12 @@ We didn’t stop there. Our app builds a community where farmers can share advic
  2.Kifayat Khan Shaon
 ## App Developer:
 Protiva Bose
-### References:
+### References and credits:
 1. [Weather Api](https://www.weatherapi.com/)<br>
 2. [Weather feature maked by help of this](https://www.youtube.com/watch?v=TdplrsFJzI0)<br>
 3. [Todays work feature maked by help of this](https://www.bing.com/videos/riverview/relatedvideo?q=todo+app+in+flutter+dart&&view=riverview&mmscn=mtsc&mid=0C3120ED9C5F3F14393B0C3120ED9C5F3F14393B&&aps=14&FORM=VMSOVR)<br>
 4. [AI feature by help of this](https://www.bing.com/videos/riverview/relatedvideo?&q=chatgpt+ainapp+in+flutter+dart&&mid=15F510936BB98A9A48D015F510936BB98A9A48D0&&FORM=VRDGAR)<br>
-5. And the picture also gif use from MicrosoftEdge website
+5. And the picture also gif use from MicrosoftEdge website.
 ### Team members:
 1. Mozammel Hossain Tanvir(leader)(Video script maker + Data collect)<br>
 2. Protiva Bose(App Developer + UIUX designer)<br>
@@ -99,6 +99,15 @@ Protiva Bose
 ![Screenshot 2024-10-05 032147](https://github.com/user-attachments/assets/84d3ca16-17ed-456a-80d4-a7fb2bf6ec07)
 ![Screenshot 2024-10-05 032215](https://github.com/user-attachments/assets/f38e17d6-ef5a-4e71-99be-bff8d965e929)
 
-
+### How can use this app - HyderoSense
++ Open HydroSense and add todays task as reminder in 'Todo list'
++ Observe realtime weather with more accurate prediction in 'Weather'
++ Getting water level alert,farmers save guard in 'HydroAlert'
++ Make a communication with the farmer experts,relatives and create a community also contact with audio & vieo call in 'Community'
++ Get help of any type questions in agriculture from 'Helping AI'
++ Can post and buy by seraching products name in 'Marketplace'
++ Can see our own profile and edit as own choice in 'Profile'
++ Get notification and make a secure setting system in 'Setting'
++ If there is any trouble and hard to undertand about app then learn clearly and make app user friendly in'Help & Support'
 
 
