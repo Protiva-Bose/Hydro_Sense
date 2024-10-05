@@ -5,11 +5,11 @@
 ####  Leveraging Earth Observation Data for Informed Agricultural Decision-Making
 We are working on the Subject: Software
 ## Subject:
-Farmers face significant water-related challenges from unpredictable weather, pests, and diseases, affecting crop health, profits,heatwave and thunderstorm. This tool aims to help farmers explore and analyze NASA datasets to address issues like droughts and floods, enabling them to improve their farming practices and mitigate the impact of extreme weather events.
+Farmers face significant water-related challenges from unpredictable weather, pests, and diseases, affecting crop health. This tool aims to help farmers explore and analyze NASA datasets to address issues like droughts,floods and unwanted pests and insects, enabling them to improve their farming practices and mitigate the impact of extreme weather events.
 ## Our background:
-1. Challenges faced by farmers: Unpredictable weather, pests, diseases, and political issues affect crop health, profitability, and food security, making farming more vulnerable.<br>
+1. Challenges faced by farmers: Unpredictable weather, pests, diseases affect crop health, profitability, and food security, making farming more vulnerable.<br>
 2. Need for innovative solutions: Farmers require tools that provide data-driven insights, such as NASA Earth data, to help them tackle water-related challenges without becoming data experts.<br>
-3. Satellite data application: Although there's growing interest in using satellite data for agriculture, translating this complex information into actionable insights for farmers remains difficult.<br>
+3. Satellite data application: Despite growing interest in satellite data for agriculture, turning this complex information into useful insights for farmers remains challenging.<br>
 4. Limitations of traditional methods: Farmers often rely on experience and intuition, which may not be sufficient in addressing increasingly unpredictable environmental conditions.<br>
 5. Importance of a tailored tool: A solution designed to connect NASA Earth Observation data with farmers’ needs would enhance resilience, sustainability, and decision-making in agricultural communities.<br>
 ## Our Solution:
@@ -68,11 +68,11 @@ Protiva Bose
 4. [AI feature by help of this](https://www.bing.com/videos/riverview/relatedvideo?&q=chatgpt+ainapp+in+flutter+dart&&mid=15F510936BB98A9A48D015F510936BB98A9A48D0&&FORM=VRDGAR)<br>
 5. And the picture also gif use from MicrosoftEdge website.
 ### Team members:
-1. Mozammel Hossain Tanvir(leader)(Video script maker + Data collect)<br>
-2. Protiva Bose(App Developer + UIUX designer)<br>
-3. Mamun Ar Rashid Tasin(Video Maker + Editer)<br>
-4. Shafee Ahmed(Explore NASA Api + data collect + Video script maker)<br>
-5. Kifayat Khan Shaon(UI/UX design + Video script maker + Make Subtitle)<br>
+1. Mozammel Hossain Tanvir(leader)(Project management + Researcher)<br>
+2. Protiva Bose(App Developer + UI/UX designer)<br>
+3. Mamun Ar Rashid Tasin(Content maker + Editor)<br>
+4. Shafee Ahmed(Explore NASA Api + Researcher + Content writer)<br>
+5. Kifayat Khan Shaon(UI/UX design + Make Subtitle)<br>
 ### ScreenShots of this Software App:
 
 ![Screenshot 2024-10-05 014934](https://github.com/user-attachments/assets/25958475-74d0-4795-8628-15f9508fa2c8)
@@ -102,10 +102,10 @@ Protiva Bose
 ### How can use this app - HyderoSense
 + Open HydroSense and add todays task as reminder in 'Todo list'
 + Observe realtime weather with more accurate prediction in 'Weather'
-+ Getting water level alert,farmers save guard in 'HydroAlert'
-+ Make a communication with the farmer experts,relatives and create a community also contact with audio & vieo call in 'Community'
-+ Get help of any type questions in agriculture from 'Helping AI'
-+ Can post and buy by seraching products name in 'Marketplace'
++ Getting water level alert,farmers save guard in 'HydroAlert' - (Still Working)
++ Make a communication with the farmer experts,relatives and create a community also contact with audio & vieo call in 'Community' - (Still Working)
++ Get help of any type questions in agriculture from 'Helping AI' - (Still Working)
++ Can post and buy by seraching products name in 'Marketplace' - (Still Working)
 + Can see our own profile and edit as own choice in 'Profile'
 + Get notification and make a secure setting system in 'Setting'
 + If there is any trouble and hard to undertand about app then learn clearly and make app user friendly in'Help & Support'
