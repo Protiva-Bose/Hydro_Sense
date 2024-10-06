@@ -71,7 +71,7 @@ Protiva Bose
    + [HeatWave info](https://www.elementonetech.com/images/ResearchDevelopment/Climatechange.jpg)<br>
    + [HeatWave moving part](https://www.icegif.com/wp-content/uploads/2023/09/icegif-121.gif)<br>
    + [Water level](https://media.giphy.com/media/ZUU9tOUrs1aPC/giphy.gif)<br>
- 6. [Help from Weather Api](https://www.weatherapi.com/)<br>
+6. [Help from Weather Api](https://www.weatherapi.com/)<br>
 ### Team members:
 1. Mozammel Hossain Tanvir(leader)(Project management + Researcher)<br>
 2. Protiva Bose(App Developer + UI/UX designer)<br>
