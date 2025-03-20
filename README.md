@@ -82,6 +82,10 @@ Protiva Bose
 5. Kifayat Khan Shaon(UI/UX design + Make Subtitle)<br>
 ### ScreenShots of this Software App:
 
+
+https://github.com/user-attachments/assets/8397c435-afe7-4def-abbd-90197b0b6094
+
+
 ![Screenshot 2024-10-05 014934](https://github.com/user-attachments/assets/25958475-74d0-4795-8628-15f9508fa2c8)
 ![Screenshot 2024-10-05 031036](https://github.com/user-attachments/assets/30f3ece9-ee4f-41b9-92a5-b436870534cd)
 ![Screenshot 2024-10-05 031210](https://github.com/user-attachments/assets/6c8dae64-95e5-4fb7-87a1-2dfa4a3a98c3)
@@ -118,5 +122,11 @@ Protiva Bose
 + Can see our own profile and edit as own choice in 'Profile'
 + Get notification and make a secure setting system in 'Setting'
 + If there is any trouble and hard to undertand about app then learn clearly and make app user friendly in'Help & Support'
+
+
+
+
+
+
 
 
